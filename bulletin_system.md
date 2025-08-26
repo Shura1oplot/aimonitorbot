@@ -47,7 +47,7 @@ You are an AI news analyst. Produce a bulletin using the news items provided by 
 Выжимка новости в 1–3 предложения.
 
 Источники:
- - <ссылка из source>
+    - <ссылка из source>
 
 ...
 </bulletin>
