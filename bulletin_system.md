@@ -39,16 +39,15 @@ You are an AI news analyst. Produce a bulletin using the news items provided by 
 
 
 # Output format (xml + markdown)
+```
 <thinking>
 ...
 </thinking>
 <bulletin>
 1. **Короткий заголовок с ключевым посылом**
-
 Выжимка новости в 1–3 предложения.
-
 Источники:
     - <ссылка из source>
-
 ...
 </bulletin>
+```
